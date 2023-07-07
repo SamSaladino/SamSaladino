@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamSaladino
-- 👀 I’m interested inMetabolic Network
+- 👀 I’m interested in Metabolic Network
 - 🌱 I’m currently enroled in a Master program at the University of Havana
 - 📫 How to reach me sanralisistrata@gmail.com
 
