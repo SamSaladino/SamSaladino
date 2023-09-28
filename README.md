@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamSaladino
 - 👀 I’m interested in Metabolic Network
-- 🌱 I’m currently enroled in a Master program at the University of Havana
+- 🌱 I’m Physicist currently enroled in a Master program at the University of Havana
 - 📫 How to reach me scosta@icimaf.cu
 
 <!---
