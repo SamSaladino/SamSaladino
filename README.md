@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamSaladino
-- 👀 I’m interested in Metabolic Network
-- 🌱 I’m Physicist currently enroled in a PhD Program at INRAE
+- 👀 I’m interested in Metabolic Network 
+- 🌱 I’m Physicist mistaken for a bioinformatics currently enroled in a PhD Program at INRAE
 - 📫 How to reach me sandra.costa-gonzalez@inrae.fr
 
 <!---
