@@ -25,9 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Wolfram_Mathematica_Logo.svg" alt="Mathematica" width="40" height="40"/>
+  <img src="assets/logos/Mathematica.png" alt="Mathematica" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Xilinx_logo.svg" alt="FPGA (Xilinx)" width="80" height="40"/>
+  <img src="assets/logos/FPGA.png" alt="FPGA/Xilinx" width="30"/>
 </p>
 
 ---
